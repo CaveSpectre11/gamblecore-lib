@@ -1,5 +1,5 @@
 
 
-var litecoreTasks = require('litecore-build');
+var litecoreTasks = require('gamblecore-build');
 
 litecoreTasks('lib');

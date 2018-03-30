@@ -353,10 +353,8 @@ describe('PublicKey', function() {
     // wif private key, address
     // see: https://github.com/litecoin-project/litecoin/blob/master-0.10/src/test/key_tests.cpp#L20
     var data = [
-      ['6uGFQ4DSW7zh1viHZi6iiVT17CncvoaV4MHvGvJKPDaLCdymj87', 'LiUo6Zn39joYJBzPUhssbDwAywhjFcoHE3'],
-      ['6vVo7sPkeLTwVdAntrv4Gbnsyr75H8ChD3P5iyHziwaqe8mCYR5', 'LZJvLSP5SGKcFS13MHgdrVhpFUbEMB5XVC'],
-      ['T3gJYmBuZXsdd65E7NQF88ZmUP2MaUanqnZg9GFS94W7kND4Ebjq', 'Lh2G82Bi33RNuzz4UfSMZbh54jnWHVnmw8'],
-      ['T986ZKRRdnuuXLeDZuKBRrZW1ujotAncU9WTrFU1n7vMgRW75ZtF', 'LWegHWHB5rmaF5rgWYt1YN3StapRdnGJfU']
+      ['T3A85qNUQFxmqQi875S1sarsNDAvmHGsnF7tkAAnnv1pMq6CF5N3', 'GZqG8dn8XtfHHDB92xDsj5sawfBok91ggy'],
+      ['T52MZAEGrHqojhnCPherMDjXcV7Dxg6WbhFjJM319k689mDJ1hbH', 'GVUK1PtscALcLW47ptc3cWebFFG4Jj7urF']
     ];
     
     data.forEach(function(d){

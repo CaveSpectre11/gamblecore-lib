@@ -68,20 +68,18 @@ describe('Address', function() {
 
   // livenet valid
   var PKHLivenet = [
-    'LQ9hsXxwkqG7C8rwjUktmvRUvhat7Qh8BQ',
-    'LUKs9ECLs954h36VXz4CAEknH9ysUnPFeK',
-    'LW3Z5seTcn3EgxNUHiCpxwRT4Dag3gy41e',
-    'LdCzEQjTA6h54qNe1PAPDtWAsr8KrrFuMy',
-    '    LdCzEQjTA6h54qNe1PAPDtWAsr8KrrFuMy   \t\n'
+    'GZqG8dn8XtfHHDB92xDsj5sawfBok91ggy',
+    'GVUK1PtscALcLW47ptc3cWebFFG4Jj7urF',
+    '    GVUK1PtscALcLW47ptc3cWebFFG4Jj7urF   \t\n'
   ];
 
   // livenet p2sh
   var P2SHLivenet = [
-    'MAEpCKqAsN9619X9HnyQnar4AUpP4cDRLk',
-    'MA92SP8F2rjGoWM4NdVSRt1eJqxGzML8LA',
-    'MDexQKL1vBbvRX4J7BUReK5vwJspyKC14q',
-    'MWwgqasit2aZdtrRPLSrQjC8rQEKMrGPit',
-    '\t \nMWwgqasit2aZdtrRPLSrQjC8rQEKMrGPit \r'
+    // 'MAEpCKqAsN9619X9HnyQnar4AUpP4cDRLk',
+    // 'MA92SP8F2rjGoWM4NdVSRt1eJqxGzML8LA',
+    // 'MDexQKL1vBbvRX4J7BUReK5vwJspyKC14q',
+    // 'MWwgqasit2aZdtrRPLSrQjC8rQEKMrGPit',
+    // '\t \nMWwgqasit2aZdtrRPLSrQjC8rQEKMrGPit \r'
   ];
 
   // testnet p2sh

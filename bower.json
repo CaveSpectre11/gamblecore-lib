@@ -1,8 +1,8 @@
 {
-  "name": "litecore-lib",
-  "main": "./litecore-lib.min.js",
+  "name": "gamblecore-lib",
+  "main": "./gamblecore-lib.min.js",
   "version": "0.13.19",
-  "homepage": "http://litecore.io",
+  "homepage": "http://gamblecore.io",
   "authors": [
     "BitPay, Inc."
   ],
@@ -12,7 +12,7 @@
   ],
   "keywords": [
     "litecoin",
-    "litecore",
+    "gamblecore",
     "btc",
     "satoshi"
   ],
