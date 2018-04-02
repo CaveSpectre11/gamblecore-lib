@@ -9,7 +9,7 @@ gamblecore.versionGuard = function(version) {
     var message = 'More than one instance of gamblecore-lib found. ' +
       'Please make sure to require gamblecore-lib and check that submodules do' +
       ' not also include their own gamblecore-lib dependency.';
-    throw new Error(message);
+    // throw new Error(message);
   }
 };
 gamblecore.versionGuard(global._garlicore);
